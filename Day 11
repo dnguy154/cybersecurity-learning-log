@@ -11,3 +11,27 @@ Firewall rules
 Access control list
 
 Allows or denies permission, ip, protocol, destination, port
+firewall rules can be based on:
+-IP addresses
+-Domain names
+-Protocols
+-Programs
+-Ports
+-Keywords
+
+example. 
+permission - allow
+ip address - any
+protocol - tcp
+destination - any
+port - 80
+
+Firewall types
+Host-based firewall only protects that computer
+Third-based firewall 
+Network-based firewall combination of hardware and software protects the entire network.
+
+Stand alone firewall or rtouters have inbuilt firewalls or cloud firewall
+Organisations use network based and host based firewalls ensuring maximum protection
+
+
