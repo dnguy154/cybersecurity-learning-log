@@ -1,0 +1,13 @@
+Firewall
+What is a firewall?
+
+Creates a safety barrier and blocks connections based on settings. 
+Stops harmful activity in a private network. 
+Very important for organistations
+
+
+Firewall rules
+
+Access control list
+
+Allows or denies permission, ip, protocol, destination, port
