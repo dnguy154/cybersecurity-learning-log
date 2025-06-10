@@ -1,0 +1,23 @@
+Learning Splunk and SIEMs (Security info and event management)
+
+Splunk analyse large amount of data. Splunk is a SIEM tool. 
+
+Downloaded Splunk.
+
+Started with event log collections collecting very basic data, 
+selected logs are application, security and system. 
+
+Searching events in the local system.
+
+Searching with an asterisk* selects all the logs and shows them in a clear matter.
+
+Creating a table to clearly see the information I am searching, query is 
+* host="DANNY-PC" source="WinEventLog:Security" "EventCode=1102"
+| fields - _bkt, _cd
+
+|(pipe line) and fields - will remove columns that I do not want. 
+
+Saving it onto dashboard.
+
+
+
