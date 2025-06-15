@@ -1,0 +1,30 @@
+Doing SOC Level 1, pre req, Junior security anaylyst.
+
+Study for Security+ 
+
+study routine + flashcards
+
+Tier 1
+Junior security anaylyst minitors traffic logs and events, works on tickets, closes alerts and performs basic
+investigations and mitigations.
+
+Tier 2
+Security Operations Analyst
+Incident Responder
+Focuses on deeper investigations, analysis and remediations,
+proactively hunts for adversaries,
+monitors and resolves more complex alerts
+
+Tier 3
+Security Operations Analyst
+Threat Hunter
+Works on more advanced investigations
+Peforms advanced threat hunting and adversary research
+Malware reversing
+
+Junior Security Analysts play a crucial role in the investigation procedure. They perform triaging on the ongoing alerts by exploring and 
+understanding how a certain attack works and preventing bad things from happening if they can. During the investigation, 
+it's important to raise the question "How? When, and why?". Security Analysts find the answers by drilling down on the data logs and alerts in 
+combination with using open-source tools, 
+which we will have a chance to explore later in this path. 
+
