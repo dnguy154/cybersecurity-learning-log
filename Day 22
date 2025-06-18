@@ -1,0 +1,8 @@
+Attackers would use the utilities to create malicious macro documents (maldocs) for spearphishing attempts, 
+a backdoor that can be used to establish C2 (Command and Control Infrastructure), any custom .EXE, and .DLL files, payloads, or password crackers.
+
+
+Fuzzy hashing is also a strong weapon against the attacker's tools. Fuzzy hashing helps you to perform similarity analysis - 
+match two files with minor differences based on the fuzzy hash values
+
+An alternative name for fuzzy hashing is context triggered piecewise hashes
