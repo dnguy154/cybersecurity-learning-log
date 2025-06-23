@@ -1,0 +1,10 @@
+
+
+Email harvesting is the process of obtaining email addresses from public, paid, or free services. 
+An attacker can use email-address harvesting for a phishing attack (a type of social-engineering attack used to steal sensitive data, 
+including login credentials and credit card numbers).
+The attacker will have a big arsenal of tools available for reconnaissance purposes. Here are some of them:
+
+After getting persistence and executing the malware on the victim's machine, "Megatron" opens up the C2 (Command and Control) channel through the malware to remotely control and manipulate the victim. This term is also known as C&C or C2 Beaconing as a type of malicious communication between a C&C server and malware on the infected host.
+The infected host will consistently communicate with the C2 server; that is also where the beaconing term came from. 
+
